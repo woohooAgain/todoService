@@ -1,0 +1,17 @@
+E:\OneDrive\Comindware\C# projects\aspnet\veryFirst\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\app.db
+E:\OneDrive\Comindware\C# projects\aspnet\veryFirst\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\OneDrive\Comindware\C# projects\aspnet\veryFirst\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\OneDrive\Comindware\C# projects\aspnet\veryFirst\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\OneDrive\Comindware\C# projects\aspnet\veryFirst\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.deps.json
+E:\OneDrive\Comindware\C# projects\aspnet\veryFirst\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.runtimeconfig.json
+E:\OneDrive\Comindware\C# projects\aspnet\veryFirst\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.runtimeconfig.dev.json
+E:\OneDrive\Comindware\C# projects\aspnet\veryFirst\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.dll
+E:\OneDrive\Comindware\C# projects\aspnet\veryFirst\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.pdb
+E:\OneDrive\Comindware\C# projects\aspnet\veryFirst\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+E:\OneDrive\Comindware\C# projects\aspnet\veryFirst\AspNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+E:\OneDrive\Comindware\C# projects\aspnet\veryFirst\AspNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.csproj.CoreCompileInputs.cache
+E:\OneDrive\Comindware\C# projects\aspnet\veryFirst\AspNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.AssemblyInfoInputs.cache
+E:\OneDrive\Comindware\C# projects\aspnet\veryFirst\AspNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.AssemblyInfo.cs
+E:\OneDrive\Comindware\C# projects\aspnet\veryFirst\AspNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.dll
+E:\OneDrive\Comindware\C# projects\aspnet\veryFirst\AspNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.pdb
+E:\OneDrive\Comindware\C# projects\aspnet\veryFirst\AspNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.0\AspNetCoreTodo.UnitTests.csprojResolveAssemblyReference.cache
